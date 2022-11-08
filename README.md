@@ -9,8 +9,8 @@ Lights I added:
 1. Spotlight - attached to the helicopter
 2. Point light - attached to a wall lamp
 3. Emissive light - glowing cat on desk (kinda like a nightlight)
-4. Directional light - adding some lighting to the scene in general
+4. Area light - green ambient lighting on the desk
 
-Lighting Transition:
+Day/Night Cycle
 
-Still a WIP
+2D Texture Particle System: Fog
