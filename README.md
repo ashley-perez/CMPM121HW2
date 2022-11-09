@@ -14,3 +14,10 @@ Lights I added:
 Day/Night Cycle
 
 2D Texture Particle System: Fog
+
+### Video
+
+The video is on here but is only viewable when downloading it directly from github rather than when cloning the project. 
+In case it doesn't work here is the link to the video: https://drive.google.com/file/d/1tNHMaJiO4gLZltbcIfWQUxFRAe6Awdzg/view?usp=sharing
+
+Should only be viewable to UCSC accounts.
